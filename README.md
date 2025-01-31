@@ -31,7 +31,7 @@ print, longest_seq_array
 - It performs a final check to ensure the last sequence is considered.
 
 # License
-This script is open-source and free to use for research and academic purposes.
+This script is open-source and free to use for research and academic purposes. If you use it in research, please provide appropriate attribution.
 
 # Author
 Eduardo Tirado-Bueno, 
