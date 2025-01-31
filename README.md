@@ -17,7 +17,6 @@ find_longest_increasing_sequence, array, longest_seq_indices, longest_seq_array
 print, longest_seq_indices
 print, longest_seq_array
 
-3. Input & Output
 # Input
 - array: A numeric array containing values
 # Output
