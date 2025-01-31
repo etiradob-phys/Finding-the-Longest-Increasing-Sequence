@@ -15,6 +15,7 @@ Pass your input array to the function to extract the longest increasing sequence
 find_longest_increasing_sequence, array, longest_seq_indices, longest_seq_array
 
 print, longest_seq_indices
+
 print, longest_seq_array
 
 # Input
