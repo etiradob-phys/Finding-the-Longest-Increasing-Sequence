@@ -11,7 +11,7 @@ To use the function, load the script in your IDL environment:
 
 .r find_longest_increasing_sequence.pro
 
-3. Call the function
+2. Call the function
 Pass your input array to the function to extract the longest increasing sequence:
 find_longest_increasing_sequence, array, longest_seq_indices, longest_seq_array
 
