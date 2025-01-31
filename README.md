@@ -7,6 +7,7 @@ This IDL script finds the most extended increasing sequence of values within a s
 - Works efficiently with dynamic arrays in IDL
 # Usage
 1. Load the Procedure
+   
 To use the function, load the script in your IDL environment:
 
 .r find_longest_increasing_sequence.pro
