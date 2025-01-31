@@ -32,8 +32,8 @@ print, longest_seq_array
 This script is open-source and free to use for research and academic purposes.
 
 # Author
-Eduardo Tirado-Bueno 
-Instituto Nacional de Astrofísica Óptica y Electrónica
+Eduardo Tirado-Bueno, 
+Instituto Nacional de Astrofísica Óptica y Electrónica,
 Last Update: January 2025
 
 For inquiries, feel free to reach out (etirado@inaoe.mx)
