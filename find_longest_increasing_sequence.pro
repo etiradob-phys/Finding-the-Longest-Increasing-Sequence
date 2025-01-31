@@ -7,12 +7,15 @@ PRO find_longest_increasing_sequence, array, longest_seq_indices, longest_seq_ar
   temp_indices = []
   temp_array = []
 
-  prev_value = -1  ; Set to a value outside the valid range
+  x1 = #                             ; change this value accordingly
+  x2 = #                             ; change this value accordingly
+
+  prev_value = -1                    ; Set to a value outside the valid range
 
   FOR k = 0, N_ELEMENTS(array) - 1 DO BEGIN
     value = array[k]
 
-    IF (value GE 4.0) AND (value LE 88.8) THEN BEGIN
+    IF (value GE x1) AND (value LE x2) THEN BEGIN
       IF (prev_value LT 0) OR (value GT prev_value) THEN BEGIN
         temp_indices = [temp_indices, k]
         temp_array = [temp_array, value]
